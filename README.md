@@ -5,7 +5,7 @@ Official repo for Getting Started with Docker video training course by [@nigelpo
 ## first-container
 
 This folder contains the files to build a single-container web app (express, handlebars...)
-- Docker hub image: [nigelpoulton/gsd:first-ctr](https://hub.docker.com/repository/docker/nigelpoulton/gsd)
+- Docker hub image: [nigelpoulton/gsd:first-ctr](https://hub.docker.com/repository/docker/silinav/gsd)
 
 ## multi-container
 
